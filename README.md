@@ -5,7 +5,7 @@ Plain app for testing flow
 
 This app is just to test flows in kotlin.
 
-**Key points:**
+**Tech stack:**
 - Flow
 - Kotlin Coroutines
 - Viewbinding
